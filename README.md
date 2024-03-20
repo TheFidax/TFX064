@@ -3,7 +3,7 @@ Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME *Let
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
 - *Luci Cabine Diurne*
-- **Luci Cabine Notturne Blu**
+- ***Luci Cabine Notturne Blu***
 - Ritirate
 - Compatimento di Servizio
 - Predisposizione per le *Luci di Coda Rosse* 
