@@ -2,8 +2,8 @@
 Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME *Letti MU*, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
-- *Luci Diurne Cabine*
-- **Luci Notturne Blu Cabine**
+- *Luci Cabine Diurne*
+- **Luci Cabine Notturne Blu**
 - Ritirate
 - Compatimento di Servizio
 - Predisposizione per le *Luci di Coda Rosse* 
