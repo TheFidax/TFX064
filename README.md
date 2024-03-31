@@ -34,7 +34,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 <img src="https://github.com/TheFidax/TFX064/blob/main/Images/diurna_bianchi.jpg" width="1280">
 
-- Carrozza in condizione luminose *Diurne* con *corridoio* illuminato e *Cuccette con luci blu*.
+- Carrozza in condizione luminose *Diurne* con *corridoio* illuminato e *Cabine Letto con luci blu*.
 
 <img src="https://github.com/TheFidax/TFX064/blob/main/Images/diurna_blu.jpg" width="1280">
 
@@ -42,7 +42,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 <img src="https://github.com/TheFidax/TFX064/blob/main/Images/notturna_bianchi.jpg" width="1280">
 
-- Carrozza in condizione luminose *Notturne* con *corridoio* illuminato e *Cuccette con luci blu*.
+- Carrozza in condizione luminose *Notturne* con *corridoio* illuminato e *Cabine Letto con luci blu*.
 
 <img src="https://github.com/TheFidax/TFX064/blob/main/Images/notturna_blu.jpg" width="1280"></br>
 
@@ -53,7 +53,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 ------------
 
 ## Video Presentazione del Progetto
-[![Video Presentazione](https://img.youtube.com/vi/xxx/0.jpg)](http://www.youtube.com/watch?v=xxx)
+[![Video Presentazione](https://img.youtube.com/vi/ZTEQkEfG7qo/0.jpg)](http://www.youtube.com/watch?v=ZTEQkEfG7qo)
 
 ------------
 
@@ -188,23 +188,17 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 ------------
 
 ### Illuminazione Cabine con Luci Diurne e Notturne
-<img src="https://github.com/TheFidax/TFX064/blob/main/Images/luci_cuccette.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX064/blob/main/Images/luci_cabine.jpg" width="1280">
 
-Questa scheda fornisce, per ogni Cuccetta, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
+Questa scheda fornisce, per ogni Cabina Letto, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
 Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera indipendente dall'altro.</br>
-
-Le vetture Cuccette Comfort si dividono in due tipologie
- - Vettura con 9 Cuccette
- - Vettura con 8 Cuccette + Zona Cuccettista
-
-La scheda **e' compatibile con entrambe le versioni.**
 
 ------------
 
 ### Illuminazione Ritirate
 <img src="https://github.com/TheFidax/TFX064/blob/main/Images/luci_ritirate.jpg" width="1280">
 
-La scheda e' progettata con LED per illuminare anche questi spazi, anche essi sono indipendenti.
+La scheda e' progettata con LED per illuminare le due ritirate in maniera indipendente.
 
 ------------
 
