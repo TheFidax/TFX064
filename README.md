@@ -1,6 +1,6 @@
 # Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Letti MU](https://scalaenne.wordpress.com/2012/04/14/carrozze-letto-ciwl-post-ii-guerra-mondiale/) in Scala H0
 Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME *Letti MU*, in scala H0.</br>
-E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
+E' stata progettata espressamente sugli ingombri strutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
 - *Luci Diurne Cabine*
 - ***Luci Notturne Blu Cabine***
@@ -10,7 +10,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Codice Identificativo Progetto: TFX064**
 
-**Testata con i seguenti modelli**: **50567 - 55265**.
+**Testata con i seguenti modelli**: **50567 - 55265**
 
 **Ultima Revisione HardWare: 1.25c**
 
